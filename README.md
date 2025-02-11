@@ -1,7 +1,7 @@
 # Bison CloudFlare bypass flooder | UP TO DATE 2025
 
 ### CloudFlare Dstat Test
-![JS/Bison]([http://url/to/img.png](https://github.com/lincolnTOP/bison-cf-bypass/blob/main/Capture.PNG?raw=true))
+![JS/Bison](https://raw.githubusercontent.com/lincolnTOP/bison-cf-bypass/refs/heads/main/Capture.PNG)
 
 ### Installation
 
