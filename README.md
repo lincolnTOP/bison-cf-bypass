@@ -1,5 +1,4 @@
-# bison-cf-bypass
-Bison CloudFlare bypass flooder | UP TO DATE 2025
+# Bison CloudFlare bypass flooder | UP TO DATE 2025
 
 ### Installation
 
